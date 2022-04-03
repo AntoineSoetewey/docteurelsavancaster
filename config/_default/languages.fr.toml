@@ -1,0 +1,17 @@
+languageCode = "fr"
+languageName = "French"
+displayName = ":flag-fr:"
+isoCode = "fr"
+weight = 1
+rtl = false
+
+title = "Dr Elsa Vancaster"
+# logo = "img/logo.jpg"
+# description = "23 septembre 2023"
+copyright = "&copy; Dr Elsa Vancaster"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "Dr Elsa Vancaster"
+  image = "img/author.jpg"
