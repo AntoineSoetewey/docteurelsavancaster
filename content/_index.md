@@ -15,8 +15,11 @@ Je consulte uniquement sur rendez-vous du **lundi au vendredi de 8h à 18h** et 
 Cliquez ici pour prendre rendez-vous
 {{< /button >}}
 
-S'il vous est impossible de prendre rendez-vous par internet, vous pouvez le faire par SMS (ou éventuellement par téléphone) au [0497/18.51.43](sms:+32497185143)
+S'il y a une urgence médicale qui ne peut attendre le prochain rendez-vous disponible dans l'agenda en ligne, vous pouvez me joindre au [0497/18.51.43](tel:+32497185143)
+
+Notez que je n'accueille plus de nouveaux patients afin de garantir la qualité des soins.
 
 <br>
 
-Adresse du cabinet : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://goo.gl/maps/QHp1k3ikY8iicXWz8)
+Adresse du cabinet : <a href="https://goo.gl/maps/QHp1k3ikY8iicXWz8" style="color:navy;text-decoration:none;">6 Rue Fond du Village 1315 Piétrebais (Incourt)</a>
+

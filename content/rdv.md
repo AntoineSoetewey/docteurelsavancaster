@@ -21,8 +21,7 @@ Les demandes urgentes seront bien évidemment traitées en priorité !
 
 ## Quelques précisions
 
-- Il est évident que je fais tout mon possible pour voir chaque patient le jour même de son appel. Afin d’y parvenir, je vous invite à prendre rendez-vous **avant 12h**. Si vous tombez malade durant la journée, n’hésitez pas à me contacter jusqu’à 18h.
-- Si aucun rendez-vous n’est disponible sur internet, téléphonez-moi et je vous intercalerai.
+- Si aucun rendez-vous n’est disponible sur internet, téléphonez-moi et je vous intercalerai si la situation médicale le nécessite.
 - Un rendez-vous est consacré à un seul patient. Si vous venez à 2, je vous invite à prendre alors 2 rendez-vous consécutifs.
 - Veuillez arriver 5 minutes avant l’heure de votre consultation.
 - Je suis conventionnée et j’applique les tarifs prévus par l’accord médico-mutualiste.
