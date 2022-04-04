@@ -12,7 +12,7 @@ enableRobotsTXT = true
 paginate = 15
 summaryLength = 0
 
-googleAnalytics = "309562473"
+googleAnalytics = "G-N11WQL5DS3"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
