@@ -9,15 +9,12 @@ Je suis également diplômée en médecine préventive du nourrisson et du jeune
 
 ## Consultations
 
-**Sur rendez-vous du lundi au vendredi de 8H à 18H, sauf le jeudi uniquement de 8H à 12H**
-
-- **de préférence par internet**
+Je consulte uniquement sur rendez-vous du **lundi au vendredi de 8h à 18h** et le **jeudi de 8h à 12h**. Pour prendre rendez-vous :
 
 {{< button href="#button" target="_self">}}
-En cliquant ici
+Cliquez ici pour prendre rendez-vous
 {{< /button >}}
 
-- par SMS : 0497/18.51.43
-- par téléphone : 0497/18.51.43
+S'il vous est impossible de prendre rendez-vous par internet, vous pouvez le faire par SMS (ou éventuellement par téléphone) au [0497/18.51.43](sms:+32497185143)
 
-Adresse : 6 Rue Fond du Village 1315 Piétrebais (Incourt)
+Adresse : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://goo.gl/maps/QHp1k3ikY8iicXWz8)
