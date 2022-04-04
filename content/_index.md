@@ -11,10 +11,12 @@ Je suis également diplômée en médecine préventive du nourrisson et du jeune
 
 Je consulte uniquement sur rendez-vous du **lundi au vendredi de 8h à 18h** et le **jeudi de 8h à 12h**. Pour prendre rendez-vous :
 
-{{< button href="#button" target="_self">}}
+{{< button href="https://docteurelsavancaster.mikrono.com/" target="_self">}}
 Cliquez ici pour prendre rendez-vous
 {{< /button >}}
 
 S'il vous est impossible de prendre rendez-vous par internet, vous pouvez le faire par SMS (ou éventuellement par téléphone) au [0497/18.51.43](sms:+32497185143)
 
-Adresse : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://goo.gl/maps/QHp1k3ikY8iicXWz8)
+<br>
+
+Adresse du cabinet : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://goo.gl/maps/QHp1k3ikY8iicXWz8)
