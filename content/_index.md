@@ -15,6 +15,8 @@ Je consulte uniquement sur rendez-vous du **lundi au vendredi de 8h à 18h** et 
 Cliquez ici pour prendre rendez-vous
 {{< /button >}}
 
+<br>
+
 S'il y a une urgence médicale qui ne peut attendre le prochain rendez-vous disponible dans l'agenda en ligne, vous pouvez me joindre au [0497/18.51.43](tel:+32497185143)
 
 Notez que je n'accueille plus de nouveaux patients afin de garantir la qualité des soins.
