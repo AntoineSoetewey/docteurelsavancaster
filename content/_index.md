@@ -16,6 +16,7 @@ Cliquez ici pour prendre rendez-vous
 {{< /button >}}
 
 <br>
+<br>
 
 S'il y a une urgence médicale qui ne peut attendre le prochain rendez-vous disponible dans l'agenda en ligne, vous pouvez me joindre au [0497/18.51.43](tel:+32497185143)
 
