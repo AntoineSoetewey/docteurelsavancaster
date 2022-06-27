@@ -8,11 +8,12 @@
 colorScheme = "fire"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-showAppearanceSwitcher = false
 enableSearch = false
 enableCodeCopy = false
-showScrollToTop = false
-attribution = false
+footer.showScrollToTop = false
+footer.showThemeAttribution = false
+footer.showAppearanceSwitcher = false
+header.layout = "hamburger"
 
 [homepage]
   layout = "profile" # valid options: page, profile, custom
