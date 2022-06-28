@@ -29,8 +29,9 @@
     {{ if or .Site.Menus.main (.Site.Params.enableSearch | default false) }}
       <label id="menu-button" for="menu-controller" class="block">
         <input type="checkbox" id="menu-controller" class="hidden" />
-        <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
-          MENU {{ partial "icon.html" "bars" }}
+        <div class="flex items-center cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
+          <span class="mr-2">MENU</span>
+          {{ partial "icon.html" "bars" }}
         </div>
         <div
           id="menu-wrapper"
