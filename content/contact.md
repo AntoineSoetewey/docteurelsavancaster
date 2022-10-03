@@ -15,7 +15,7 @@ Cliquez ici pour prendre rendez-vous
 <br>
 <br>
 
-Adresse du cabinet : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://goo.gl/maps/QHp1k3ikY8iicXWz8)
+Adresse du cabinet : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://g.page/docteur-elsa-vancaster?share)
 
 Email : [docteurelsavancaster@hotmail.com](mailto:docteurelsavancaster@hotmail.com)
 
