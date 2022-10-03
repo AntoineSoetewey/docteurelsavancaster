@@ -25,5 +25,3 @@ Notez que je n'accueille plus de nouveaux patients afin de garantir la qualité 
 <br>
 
 Adresse du cabinet : [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://g.page/docteur-elsa-vancaster?share)
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2525.4659645241245!2d4.769048516442984!3d50.729845979514984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c17b6e60facc55%3A0xd8aa7379b7c292c0!2sDocteur%20Elsa%20Vancaster!5e0!3m2!1sen!2sbe!4v1664806801372!5m2!1sen!2sbe" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

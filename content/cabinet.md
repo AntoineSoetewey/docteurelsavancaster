@@ -4,7 +4,7 @@ description: "Informations concernant le cabinet du docteur Elsa Vancaster"
 layout: "simple"
 ---
 
-Je vous reçois au sein de mon cabinet, situé [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://goo.gl/maps/QHp1k3ikY8iicXWz8).
+Je vous reçois au sein de mon cabinet, situé [6 Rue Fond du Village 1315 Piétrebais (Incourt)](https://g.page/docteur-elsa-vancaster?share).
 
 Piétrebais est un petit village situé dans la commune d’Incourt à – 7km de Grez-Doiceau – 7km de Beauvechain – 8km de Jodoigne – 16km de Ramilies.
 

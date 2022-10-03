@@ -4,7 +4,7 @@ description: "Prendre rendez-vous chez le docteur Elsa Vancaster"
 layout: "simple"
 ---
 
-Je consulte uniquement sur rendez-vous du **lundi au vendredi de 8h à 18h** et le **jeudi de 8h à 12h**. Pour prendre rendez-vous :
+Je consulte uniquement sur rendez-vous du **lundi au vendredi de 8h à 18h** et le **jeudi de 8h à 12h**. Pour prendre rendez-vous, cela se fait :
 
 - de préférence par internet:
 
