@@ -3,4 +3,4 @@ Site internet du Dr Elsa Vancaster (médecin généraliste). Voir [docteurelsava
 
 # Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6c261bb9-0a94-4b41-b92e-6212e3b9c65f/deploy-status)](https://app.netlify.com/sites/statistix/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7b849a5c-ea17-40ac-89a8-3ca53c0b57dd/deploy-status)](https://app.netlify.com/sites/docteurelsavancaster/deploys)
