@@ -1,16 +1,16 @@
-languageCode = "fr"
+languageCode = "fr-BE"
 languageName = "French"
-displayName = ":flag-fr:"
-isoCode = "fr"
+languageDirection = "ltr"
 weight = 1
-rtl = false
 
 title = "Dr Elsa Vancaster"
-# logo = "img/logo.jpg"
-description = "Site internet du docteur Elsa Vancaster, médecin généraliste à Incourt (Piétrebais)"
-copyright = "&copy; Dr Elsa Vancaster"
+# copyright = "Dr Elsa Vancaster"
 
-dateFormat = "2 January 2006"
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["samples"]
+  description = "Site internet du docteur Elsa Vancaster, médecin généraliste à Incourt (Piétrebais)"
 
 [author]
   name = "Dr Elsa Vancaster"

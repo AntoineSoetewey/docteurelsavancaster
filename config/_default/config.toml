@@ -2,10 +2,9 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://www.docteurelsavancaster.com/"
-languageCode = "fr"
-
 theme = "congo"
+
+baseURL = "https://www.docteurelsavancaster.com/"
 defaultContentLanguage = "fr"
 
 enableRobotsTXT = true
