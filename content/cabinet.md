@@ -14,7 +14,7 @@ Piétrebais est un petit village situé dans la commune d’Incourt à – 7km d
 <img src="/./cabinet_files/parking-dr-elsa-vancaster.jpeg" alt="" width="100%"/>
 </center>
 
-Le cabinet dispose d’un vaste parking où vous pourrez vous garer sans difficulté le temps de votre consultation. 
+Le cabinet dispose d’un vaste parking où vous pourrez vous garer sans difficulté le temps de votre consultation.
 
 <center>
 <img src="/./cabinet_files/salle-attente-docteur-elsa-vancaster.jpg" alt="" width="100%"/>
