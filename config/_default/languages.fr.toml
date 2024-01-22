@@ -12,6 +12,6 @@ title = "Dr Elsa Vancaster"
   # mainSections = ["samples"]
   description = "Site internet du docteur Elsa Vancaster, médecin généraliste à Incourt (Piétrebais)"
 
-[author]
+[params.author]
   name = "Dr Elsa Vancaster"
   image = "img/docteur-elsa-vancaster.jpeg"
