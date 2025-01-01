@@ -6,7 +6,7 @@ title: Dr Elsa Vancaster
 {{< alert >}}
 Je suis actuellement en congé de maternité.<br>
 En mon absence, le Dr Elisa Sibille assurera les consultations au sein de mon cabinet. Vous pouvez prendre rendez-vous directement avec elle via mon [agenda en ligne](https://docteurelsavancaster.mikrono.com/).
-{{< /alert >}}
+{{< /alert >}} 
 
 <br>
 
