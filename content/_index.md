@@ -4,8 +4,7 @@ title: Dr Elsa Vancaster
 ---
 
 {{< alert >}}
-Je suis actuellement en congé de maternité.<br>
-En mon absence, le Dr Elisa Sibille assurera les consultations au sein de mon cabinet. Vous pouvez prendre rendez-vous directement avec elle via mon [agenda en ligne](https://docteurelsavancaster.mikrono.com/).
+Retrouvez-moi sur mon nouveau site internet : [www.cmp1315.com](https://cmp1315.com/)
 {{< /alert >}}
 
 <br>
@@ -28,14 +27,6 @@ Cliquez ici pour prendre rendez-vous
 S'il y a une urgence médicale qui ne peut attendre le prochain rendez-vous disponible dans l'agenda en ligne, vous pouvez me joindre au [0497/18.51.43](tel:+32497185143)
 
 Notez que je n'accueille plus de nouveaux patients afin de garantir la qualité des soins.
-
-<br>
-
-{{< alert "circle-info" >}}
-Je suis heureuse de vous annoncer l'arrivée d'un ostéopathe au sein du cabinet : Monsieur Arnaud Desclee. Il pourra vous recevoir en consultation si besoin dès janvier, les mardis et jeudis.
-
-La prise de rendez-vous est possible via son agenda en ligne [www.osteopathearnauddesclee.com](https://www.osteopathearnauddesclee.com/) ou par téléphone [0476/35.59.47](tel:+32476355947).
-{{< /alert >}}
 
 <br>
 
